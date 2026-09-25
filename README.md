@@ -1,6 +1,5 @@
 # TITLE OF THE PRODUCT
 
-Hairdryer
 
 # DESCRIPTION
 
